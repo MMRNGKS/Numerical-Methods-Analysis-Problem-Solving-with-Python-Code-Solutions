@@ -14,7 +14,7 @@ T (◦C): 0, 21.1, 37.8, 54.4, 71.1, 87.8, 100
 ➡ The table displays thermal efficiencies of some early steam engines. Determine the polynomial that provides the best fit to the data and use it to predict the thermal efficiency in the year 2000.
 <br>
 <br>
-The intensity of radiation of a radioactive substance was measured at half-year intervals.
+➡ The intensity of radiation of a radioactive substance was measured at half-year intervals.
 <br>
 The results were:
 <br>
